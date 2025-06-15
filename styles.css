@@ -40,7 +40,7 @@ body {
 
 .nav-menu {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .nav-link {
@@ -516,7 +516,7 @@ body {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 390px) {
     .category-grid {
         grid-template-columns: 1fr;
     }
